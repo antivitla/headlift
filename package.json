@@ -1,0 +1,19 @@
+{
+  "name": "mr-headlift",
+  "version": "1.0.0",
+  "description": "Show/Hide massive article header on click",
+  "main": "mr-headlift.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antivitla/mr-headlift.git"
+  },
+  "author": "Виталий Кулешин <antivitla@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antivitla/mr-headlift/issues"
+  },
+  "homepage": "https://github.com/antivitla/mr-headlift#readme"
+}
